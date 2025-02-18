@@ -3,7 +3,7 @@
 ## Description
 
 This project is a **Car Management System** developed as part of self-study.
-The system is built using **Java** and uses a **SQL database** hosted on **XAMPP** localhost for data storage and management. It is being developed using **Apache NetBeans IDE** and is still a work in progress.
+The system is built using **Java** and uses a **SQL database** hosted on **XAMPP** localhost for data storage and management. It is being developed using **Apache NetBeans IDE** and i still n a work in progress.
 
 ### Key Features:
 - Manage car details (e.g., car model, registration, owner information, etc.).
